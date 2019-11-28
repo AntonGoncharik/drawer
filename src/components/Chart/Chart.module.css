@@ -1,0 +1,13 @@
+table {
+    border: black 1px solid;
+    margin: auto;
+}
+
+table td {
+    width: 25px;
+    height: 25px;
+}
+
+.chartBlock {
+    margin: 5px;
+}
